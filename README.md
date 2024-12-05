@@ -2,10 +2,7 @@
 
 *Nice to meet you*  :)
 
-## 👤 About Me
-Developer.
-
-## 🛠 Tech Stack
+## 🛠 My Tech Stack
 
 ### Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timhateuchlieb&layout=compact&theme=dark)
