@@ -37,7 +37,6 @@
 
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=java&logoColor=white)](https://junit.org/junit5/)
-[![WebMvcTest](https://img.shields.io/badge/-@WebMvcTest-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/autoconfigure/web/servlet/WebMvcTest.html)
 
 <!--
 ## 📊 GitHub Stats
