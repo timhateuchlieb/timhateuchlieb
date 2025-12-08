@@ -13,35 +13,35 @@
 ## ⚙️ Tools & Technologies
 
 ### Backend
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.oracle.com/java/)
-[![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)](https://spring.io/projects/spring-boot)
-[![REST](https://img.icons8.com/ios-filled/50/000000/api.png)](https://restfulapi.net/)
-[![Swagger](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg)](https://swagger.io/)
-[![OpenAPI](https://img.icons8.com/ios-filled/50/000000/open-api.png)](https://www.openapis.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![REST](https://img.shields.io/badge/-REST-0250AA?style=flat-square)](https://restfulapi.net/)
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io/)
+[![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)](https://www.openapis.org/)
 
 ### Frontend & Web
-[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
-[![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)](https://vuejs.org/)
-[![Stencil.js](https://img.icons8.com/color/48/000000/stencil-logo.png)](https://stenciljs.com/)
-[![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)](https://redux.js.org/)
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Stencil.js](https://img.shields.io/badge/-Stencil-FF6F61?style=flat-square)](https://stenciljs.com/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### Databases
-[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
-[![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png)](https://mariadb.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 ### Tools & DevOps
-[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/)
-[![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)](https://about.gitlab.com/)
-[![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)](https://www.atlassian.com/software/jira)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ### IDEs & Editors
-[![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)](https://www.jetbrains.com/idea/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 ### Testing
-[![JUnit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://junit.org/junit5/)
-[![Jest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg)](https://jestjs.io/)
+[![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=java&logoColor=white)](https://junit.org/junit5/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
