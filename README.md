@@ -2,7 +2,6 @@
 
 Welcome to my GitHub Profile! Here you can find some small projects I worked on for learning purposes or just for fun.
 
----
 
 ## ⚙️ Tech I use
 
