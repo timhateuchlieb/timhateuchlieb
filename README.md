@@ -37,4 +37,4 @@ Welcome to my GitHub Profile! Here you can find some small projects I worked on 
 
 ### Languages used in my public repos
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timhateuchlieb&amp;theme=dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timhateuchlieb&amp;theme=dark)
